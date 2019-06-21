@@ -9,6 +9,9 @@
 * [StandaloneEditor.aspx.cs](./CS/WebSite/StandaloneEditor.aspx.cs) (VB: [StandaloneEditor.aspx.vb](./VB/WebSite/StandaloneEditor.aspx.vb))
 <!-- default file list end -->
 # How to use ASPxHtmlEditor to edit RTF data
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e4257/)**
+<!-- run online end -->
 
 
 <p><strong>Important Note</strong><br /><br />In version 14.1 we've developed a great new <a href="http://ASP.NET">ASP.NET</a> editor that may better fit your scenario. Read more about the new ASPxRichEdit here: <a href="https://community.devexpress.com/blogs/aspnet/archive/2014/11/12/asp-net-word-inspired-rich-text-editor-preview-release-coming-soon.aspx">https://community.devexpress.com/blogs/aspnet/archive/2014/11/12/asp-net-word-inspired-rich-text-editor-preview-release-coming-soon.aspx</a></p>
